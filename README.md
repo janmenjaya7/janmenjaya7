@@ -3,22 +3,21 @@
 <h1 align="center">Hi 👋, I'm Janmenjaya Biswal</h1>
 <h3 align="center">Web Developer From India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=janmenjaya&label=Profile%20views&color=0e75b6&style=flat" alt="janmenjaya" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suryathink&label=Profile%20views&color=0e75b6&style=flat" alt="suryathink" /> </p>
 <img style="height: 300px;"  align="right" src="https://c.tenor.com/2uyENRmiUt0AAAAM/coding.gif"></img>
 
 <p align="left"> <a href="mailto:janmwnjayabiswal" target="blank"><img src="https://img.shields.io/badge/Reach_to_me_via_Mail_-000?style=for-the-badge&logo=gmail&logoColor=gold" alt="Mail" /></a> </p>
 
-<p align="left"> <a href="https://www.linkedin.com/in/janmenjaya-biswal-0ba83b212/" target="blank"><img src="https://img.shields.io/twitter/follow/janmenjaya?logo=twitter&style=for-the-badge" alt="janmenjaya" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/janmenjaya-biswal-0ba83b212/" target="blank"><img src="https://img.shields.io/twitter/follow/suryathink?logo=twitter&style=for-the-badge" alt="suryathink" /></a> </p>
 
 - 🌱 I’m a Full Stack Web Developer Skilled in MERN Stack.
 
 - 💬 Ask me about Javascript, React,NodeJs, MongoDB,ExpressJs.
-- 💻 &nbsp; Checkout my [Portfolio](https://janmenjaya.github.io/).
+- 💻 &nbsp; Checkout my [Portfolio](https://suryathink.github.io/).
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
-  <a target=_blank href = "https://www.linkedin.com/in/janmenjaya/">
-  <img src="https://camo.githubusercontent.com/janmenjaya" height="60px" data-canonical-src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" style="max-width: 100%; display: inline-block;" target=_blank data-target="animated-image.originalImage"></a>
+  <a target=_blank href = "https://www.linkedin.com/in/suryathink/"><img src="https://camo.githubusercontent.com/fd5eb9cf30ac1522d31d72a771f662d31028f610cd3c4f54daf8e23eebb26775/68747470733a2f2f636c69706c792e636f2f77702d636f6e74656e742f75706c6f6164732f323032312f30322f3337323130323035305f4c494e4b4544494e5f49434f4e5f5452414e53504152454e545f313038302e676966" height="60px" data-canonical-src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" style="max-width: 100%; display: inline-block;" target=_blank data-target="animated-image.originalImage"></a>
 </p>
 
 <!-- <h3 align="left">Languages and Tools:</h3>
@@ -65,21 +64,21 @@
    <br/>
 <br>
 <p align="center">
-    <a href="https://github.com/janemnjaya/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Surya streak" src="https://github-readme-streak-stats.herokuapp.com/?user=janemnjaya&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    <a href="https://github.com/suryathink/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Surya streak" src="https://github-readme-streak-stats.herokuapp.com/?user=suryathink&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
  <br/> <div>
-    <a  href="https://github.com/janemnjaya/github-readme-stats"><img alt="Surya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janemnjaya&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <a href="https://github.com/janemnjaya/github-readme-stats"><img alt="Surya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=janemnjaya&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></div>
+    <a  href="https://github.com/suryathink/github-readme-stats"><img alt="Surya's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryathink&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/suryathink/github-readme-stats"><img alt="Surya's Github Stats" src="https://github-readme-stats.vercel.app/api?username=suryathink&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a></div>
    
  
   <br/>
 
 <br/>
 
-<a href="https://github.com/janmenjaya/github-readme-activity-graph"><img alt="Surya Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=janmenjaya&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/suryathink/github-readme-activity-graph"><img alt="Surya Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=suryathink&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
-<a align="right" href="https://github.com/janmenjaya?tab=followers"><img src="https://img.shields.io/github/followers/janmenjaya?label=Followers&style=social" alt="GitHub Badge"></a>
+<a align="right" href="https://github.com/suryathink?tab=followers"><img src="https://img.shields.io/github/followers/suryathink?label=Followers&style=social" alt="GitHub Badge"></a>
