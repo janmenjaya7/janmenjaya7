@@ -292,5 +292,4 @@ const janmenjaya = {
 
 <div align="center">
   <sub>✨ Crafted with ❤️ by <b>Janmenjaya Biswal</b> · Pune, India 🇮🇳 · 2025</sub>
-</div>![Uploading header (1).svg…]()
-![Uploading header (1).svg…]()
+</div>
