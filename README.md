@@ -1,3 +1,4 @@
+<img width="900" height="280" alt="header" src="https://github.com/user-attachments/assets/c91eeaf5-2cad-49d3-ad55-75a765cf6366" />
 <div align="center">
 
 <!-- CUSTOM SVG HERO BANNER — upload header.svg to your repo root -->
