@@ -25,15 +25,15 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">
+  <a href="mailto:janmenjayabiswal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/>
   </a>
 
-  <a href="https://linkedin.com/in/suryathink">
+  <a href="https://www.linkedin.com/in/janmenjaya-biswal-0ba83b212/">
     <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
   </a>
 
-  <a href="https://github.com/suryathink">
+  <a href="https://github.com/janmenjaya7">
     <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 
