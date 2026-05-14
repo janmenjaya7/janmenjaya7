@@ -1,13 +1,12 @@
-<img width="900" height="280" alt="header" src="https://github.com/user-attachments/assets/c91eeaf5-2cad-49d3-ad55-75a765cf6366" />
 <div align="center">
-
+<img width="900" height="280" alt="header (2)" src="https://github.com/user-attachments/assets/e7990135-7ac5-46b8-b819-c16a83d20d4d" />
 <!-- CUSTOM SVG HERO BANNER — upload header.svg to your repo root -->
-<img src="./header.svg" width="100%" alt="Janmenjaya Biswal — Frontend Developer"/>
+<!-- <img src="./header.svg" width="100%" alt="Janmenjaya Biswal — Frontend Developer"/> -->
 
 <br/>
 
 <!-- ANIMATED TYPEWRITER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=780&height=50&lines=🚀+Building+EdTech+for+50%2C000%2B+Learners;⚛️+React+%7C+Next.js+%7C+TypeScript+Specialist;🎯+4+Live+Production+Platforms+Shipped;🏆+Excellence+Award+Winner+%40+e2eHiring;📱+React+Native+%7C+Mobile+Developer;✨+Open+to+Exciting+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=780&height=50&lines=🚀+Building+EdTech+for+50%2C000%2B+Learners;⚛️+React+%7C+Next.js+%7C+TypeScript+Specialist;🎯+4+Live+Production+Platforms+Shipped;🏆+Excellence+Award+Winner+%40+IFAS+Educate;📱+React+Native+%7C+Mobile+Developer;✨+Open+to+Exciting+Opportunities)](https://git.io/typing-svg)
 
 <br/>
 
@@ -46,7 +45,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="26"/> &nbsp;About Me
+## 👨‍💻 &nbsp;About Me
 
 <table>
 <tr>
@@ -57,8 +56,8 @@ const janmenjaya = {
 
   name     : "Janmenjaya Biswal",
   role     : "Frontend Developer",
-  company  : "e2eHiring",
-  client   : "IFAS Educate Pvt. Ltd.",
+  company  : "IFAS Educate Pvt. Ltd.",  // current
+  employer : "e2eHiring",               // via
   location : "📍 Pune, Maharashtra 🇮🇳",
   phone    : "+91 7377617717",
   email    : "janmenjayabiswal@gmail.com",
@@ -80,7 +79,7 @@ const janmenjaya = {
   },
 
   achievements: [
-    "🏆 Excellence Award  @ e2eHiring",
+    "🏆 Excellence Award  @ IFAS Educate",
     "⚡ Page load ↓ ~25% via build optimisation",
     "📦 Dev speed ↑ ~30% with component libs",
     "🔗 20+ REST APIs integrated end-to-end",
@@ -95,7 +94,7 @@ const janmenjaya = {
 </td>
 <td width="48%" align="center" valign="top">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="270" alt="Coding"/>
+<img src="https://raw.githubusercontent.com/Potential17/Potential17/master/user%20(2).gif" width="270" alt="Coding"/>
 
 <br/><br/>
 
@@ -260,7 +259,7 @@ const janmenjaya = {
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/🏆_Excellence-Award-FFD700?style=for-the-badge&labelColor=0d1117"/><br/><br/>
 <b>Excellence Award</b><br/>
-<sub>⭐ e2eHiring / IFAS Educate</sub>
+<sub>⭐ IFAS Educate Pvt. Ltd.</sub>
 </td>
 </tr>
 </table>
@@ -293,4 +292,5 @@ const janmenjaya = {
 
 <div align="center">
   <sub>✨ Crafted with ❤️ by <b>Janmenjaya Biswal</b> · Pune, India 🇮🇳 · 2025</sub>
-</div>
+</div>![Uploading header (1).svg…]()
+![Uploading header (1).svg…]()
