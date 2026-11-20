@@ -1,0 +1,218 @@
+<svg width="900" height="280" viewBox="0 0 900 280" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="hdrTitle hdrDesc">
+  <title id="hdrTitle">Janmenjaya Biswal — Frontend Developer</title>
+  <desc id="hdrDesc">Frontend Developer (React, Next.js, TypeScript) at IFAS EduTech, Pune. Portfolio: www.janmenjaya.in</desc>
+
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#040a17"/>
+      <stop offset="55%" stop-color="#081529"/>
+      <stop offset="100%" stop-color="#0b1d38"/>
+    </linearGradient>
+    <radialGradient id="glowBlue" cx="18%" cy="30%" r="45%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowCyan" cx="78%" cy="55%" r="45%">
+      <stop offset="0%" stop-color="#06b6d4" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#06b6d4" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="glowViolet" cx="50%" cy="110%" r="40%">
+      <stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.16"/>
+      <stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/>
+    </radialGradient>
+
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+      <path d="M32 0H0V32" fill="none" stroke="#1e3a5f" stroke-width="0.5"/>
+    </pattern>
+    <radialGradient id="gridFade" cx="35%" cy="40%" r="75%">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </radialGradient>
+    <mask id="gridMask"><rect width="900" height="280" fill="url(#gridFade)"/></mask>
+
+    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="45%" stop-color="#93c5fd"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="ctaGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#fff" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#fff" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0"/>
+      <stop offset="30%" stop-color="#3b82f6"/>
+      <stop offset="70%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="cardStroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.7"/>
+      <stop offset="50%" stop-color="#1e3a5f" stop-opacity="0.6"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0.7"/>
+    </linearGradient>
+
+    <clipPath id="ctaClip"><rect x="40" y="184" width="214" height="34" rx="17"/></clipPath>
+
+    <filter id="soft" x="-30%" y="-60%" width="160%" height="220%">
+      <feGaussianBlur stdDeviation="8"/>
+    </filter>
+    <filter id="cardShadow" x="-10%" y="-10%" width="120%" height="130%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <!-- ───────── BACKGROUND ───────── -->
+  <rect width="900" height="280" fill="url(#bg)"/>
+  <rect width="900" height="280" fill="url(#grid)" mask="url(#gridMask)"/>
+  <rect width="900" height="280" fill="url(#glowBlue)"/>
+  <rect width="900" height="280" fill="url(#glowCyan)"/>
+  <rect width="900" height="280" fill="url(#glowViolet)"/>
+
+  <!-- floating particles -->
+  <g fill="#60a5fa">
+    <circle cx="470" cy="46" r="1.4" opacity="0.6"><animate attributeName="cy" values="46;40;46" dur="3.4s" repeatCount="indefinite"/></circle>
+    <circle cx="482" cy="150" r="1" opacity="0.5"><animate attributeName="cy" values="150;144;150" dur="2.9s" repeatCount="indefinite"/></circle>
+    <circle cx="874" cy="30" r="1.4" fill="#22d3ee" opacity="0.6"><animate attributeName="cy" values="30;24;30" dur="3.8s" repeatCount="indefinite"/></circle>
+    <circle cx="880" cy="250" r="1" fill="#a78bfa" opacity="0.6"><animate attributeName="cy" values="250;244;250" dur="3.1s" repeatCount="indefinite"/></circle>
+  </g>
+
+  <!-- ───────── LEFT: IDENTITY ───────── -->
+
+  <!-- availability pill -->
+  <g>
+    <animate attributeName="opacity" values="0;1" dur="0.5s" fill="freeze"/>
+    <rect x="40" y="30" width="196" height="26" rx="13" fill="#0b1a2f" stroke="#1f4d3a" stroke-width="1"/>
+    <circle cx="56" cy="43" r="7" fill="#22c55e" opacity="0.25">
+      <animate attributeName="r" values="4;8;4" dur="2s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0.5;0;0.5" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="56" cy="43" r="3.5" fill="#22c55e"/>
+    <text x="68" y="47.5" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="12" font-weight="600" fill="#86efac" letter-spacing="0.3">Open to new opportunities</text>
+  </g>
+
+  <!-- name -->
+  <text x="38" y="108" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="42" font-weight="800" fill="url(#nameGrad)" letter-spacing="-1.2">Janmenjaya Biswal
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.25;1" dur="1s" fill="freeze"/>
+  </text>
+
+  <!-- role -->
+  <text x="40" y="140" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="18" font-weight="600" fill="#e2e8f0">Frontend Developer
+    <tspan fill="#334155" font-weight="400">  |  </tspan><tspan fill="#38bdf8" font-weight="500" font-size="15">React · Next.js · TypeScript</tspan>
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.45;1" dur="1.2s" fill="freeze"/>
+  </text>
+
+  <!-- meta row with icons -->
+  <g font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="12.5" fill="#94a3b8">
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.5;1" dur="1.4s" fill="freeze"/>
+    <!-- location -->
+    <g transform="translate(46 160)" fill="none" stroke="#60a5fa" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round">
+      <path d="M0 6.5C0 6.5-5 1.8-5-1.5a5 5 0 0 1 10 0C5 1.8 0 6.5 0 6.5z"/>
+      <circle cx="0" cy="-1.5" r="1.7"/>
+    </g>
+    <text x="56" y="164.5">Pune, India</text>
+    <!-- company -->
+    <g transform="translate(142 160)" fill="none" stroke="#60a5fa" stroke-width="1.5" stroke-linejoin="round">
+      <rect x="-5.5" y="-3.5" width="11" height="8.5" rx="1.5"/>
+      <path d="M-2.2-3.5v-2h4.4v2"/>
+    </g>
+    <text x="152" y="164.5">IFAS <tspan fill="#e2e8f0" font-weight="600">EduTech</tspan></text>
+    <!-- experience -->
+    <g transform="translate(252 160)" fill="none" stroke="#60a5fa" stroke-width="1.5" stroke-linecap="round">
+      <circle r="5.5"/>
+      <path d="M0-3v3l2 1.5"/>
+    </g>
+    <text x="262" y="164.5"><tspan fill="#e2e8f0" font-weight="600">3+ yrs</tspan> experience</text>
+  </g>
+
+  <!-- portfolio CTA (highlighted) -->
+  <g>
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.55;1" dur="1.6s" fill="freeze"/>
+    <rect x="40" y="186" width="214" height="34" rx="17" fill="#22d3ee" filter="url(#soft)" opacity="0.35">
+      <animate attributeName="opacity" values="0.2;0.5;0.2" dur="2.6s" repeatCount="indefinite"/>
+    </rect>
+    <rect x="40" y="184" width="214" height="34" rx="17" fill="url(#ctaGrad)"/>
+    <g clip-path="url(#ctaClip)">
+      <rect x="-80" y="184" width="70" height="34" fill="url(#shine)" transform="skewX(-20)">
+        <animate attributeName="x" values="-40;330;330" keyTimes="0;0.45;1" dur="3.5s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+    <!-- globe icon -->
+    <g transform="translate(60 201)" fill="none" stroke="#fff" stroke-width="1.5">
+      <circle r="7"/>
+      <ellipse rx="3" ry="7"/>
+      <path d="M-7 0h14"/>
+    </g>
+    <text x="74" y="206" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="14.5" font-weight="700" fill="#fff" letter-spacing="0.2">www.janmenjaya.in</text>
+    <path d="M230 205l7-7m-5 0h5v5" fill="none" stroke="#fff" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="268" y="206" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="12.5" font-style="italic" fill="#64748b">← let's build something great</text>
+  </g>
+
+  <!-- tech chips -->
+  <g font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="12" font-weight="600" text-anchor="middle">
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.6;1" dur="1.8s" fill="freeze"/>
+    <rect x="40"  y="232" width="66" height="24" rx="6" fill="#0f2240" stroke="#1e40af"/>
+    <circle cx="52" cy="244" r="3" fill="#61dafb"/><text x="79" y="248.5" fill="#bae6fd">React</text>
+    <rect x="114" y="232" width="74" height="24" rx="6" fill="#0f2240" stroke="#1e40af"/>
+    <circle cx="126" cy="244" r="3" fill="#f8fafc"/><text x="157" y="248.5" fill="#e2e8f0">Next.js</text>
+    <rect x="196" y="232" width="92" height="24" rx="6" fill="#0f2240" stroke="#1e40af"/>
+    <circle cx="208" cy="244" r="3" fill="#3178c6"/><text x="248" y="248.5" fill="#bfdbfe">TypeScript</text>
+    <rect x="296" y="232" width="106" height="24" rx="6" fill="#0f2240" stroke="#0e7490"/>
+    <circle cx="308" cy="244" r="3" fill="#22d3ee"/><text x="355" y="248.5" fill="#a5f3fc">React Native</text>
+    <rect x="410" y="232" width="56" height="24" rx="6" fill="#1a1740" stroke="#5b21b6"/>
+    <circle cx="422" cy="244" r="3" fill="#a78bfa"/><text x="443" y="248.5" fill="#ddd6fe">GCP</text>
+  </g>
+
+  <!-- ───────── RIGHT: CODE CARD ───────── -->
+  <g>
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.3;1" dur="1.3s" fill="freeze"/>
+    <animateTransform attributeName="transform" type="translate" values="0 0;0 -4;0 0" dur="6s" repeatCount="indefinite"/>
+
+    <rect x="500" y="32" width="364" height="216" rx="14" fill="#07111f" fill-opacity="0.92" stroke="url(#cardStroke)" stroke-width="1.2" filter="url(#cardShadow)"/>
+    <!-- title bar -->
+    <path d="M500 46a14 14 0 0 1 14-14h336a14 14 0 0 1 14 14v12H500z" fill="#0c1a2e"/>
+    <line x1="500" y1="58" x2="864" y2="58" stroke="#1e3a5f" stroke-width="1"/>
+    <circle cx="520" cy="45" r="5" fill="#ff5f57"/>
+    <circle cx="537" cy="45" r="5" fill="#febc2e"/>
+    <circle cx="554" cy="45" r="5" fill="#28c840"/>
+    <text x="682" y="49" text-anchor="middle" font-family="'Segoe UI',system-ui,sans-serif" font-size="11.5" fill="#64748b">developer.ts</text>
+    <text x="850" y="49" text-anchor="end" font-family="'Segoe UI',system-ui,sans-serif" font-size="10.5" font-weight="700" fill="#3178c6">TS</text>
+
+    <!-- code -->
+    <g font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12.5">
+      <g fill="#334155" text-anchor="end">
+        <text x="526" y="84">1</text><text x="526" y="106">2</text><text x="526" y="128">3</text>
+        <text x="526" y="150">4</text><text x="526" y="172">5</text><text x="526" y="194">6</text>
+        <text x="526" y="216">7</text><text x="526" y="238">8</text>
+      </g>
+
+      <text x="540" y="84"><tspan fill="#c084fc">const</tspan><tspan fill="#e2e8f0"> developer </tspan><tspan fill="#94a3b8">= {</tspan>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.4;1" dur="1.4s" fill="freeze"/></text>
+      <text x="556" y="106"><tspan fill="#60a5fa">name</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#34d399">"Janmenjaya Biswal"</tspan><tspan fill="#94a3b8">,</tspan>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.6;1" dur="1.7s" fill="freeze"/></text>
+      <text x="556" y="128"><tspan fill="#60a5fa">role</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#34d399">"Frontend Developer"</tspan><tspan fill="#94a3b8">,</tspan>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.7;1" dur="2s" fill="freeze"/></text>
+      <text x="556" y="150"><tspan fill="#60a5fa">stack</tspan><tspan fill="#94a3b8">: [</tspan><tspan fill="#fbbf24">"React"</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#fbbf24">"Next.js"</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#fbbf24">"TS"</tspan><tspan fill="#94a3b8">],</tspan>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.74;1" dur="2.3s" fill="freeze"/></text>
+      <text x="556" y="172"><tspan fill="#60a5fa">impact</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#34d399">"50K+ learners · 4 apps"</tspan><tspan fill="#94a3b8">,</tspan>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.77;1" dur="2.6s" fill="freeze"/></text>
+      <text x="556" y="194"><tspan fill="#60a5fa">award</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#34d399">"Excellence Award"</tspan><tspan fill="#94a3b8">,</tspan>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.8;1" dur="2.9s" fill="freeze"/></text>
+      <text x="540" y="216"><tspan fill="#94a3b8">};</tspan>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.82;1" dur="3.2s" fill="freeze"/></text>
+      <text x="540" y="238"><tspan fill="#475569">// shipping clean, fast UIs</tspan>
+        <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.84;1" dur="3.5s" fill="freeze"/></text>
+      <!-- blinking cursor -->
+      <rect x="732" y="227" width="7" height="14" fill="#22d3ee">
+        <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+  </g>
+
+  <!-- bottom accent line -->
+  <rect x="0" y="277" width="900" height="3" fill="url(#edge)" opacity="0.8"/>
+</svg>

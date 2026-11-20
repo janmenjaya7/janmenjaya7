@@ -1,12 +1,19 @@
 <div align="center">
-<img width="900" height="280" alt="header (2)" src="https://github.com/user-attachments/assets/e7990135-7ac5-46b8-b819-c16a83d20d4d" />
-<!-- CUSTOM SVG HERO BANNER — upload header.svg to your repo root -->
-<!-- <img src="./header.svg" width="100%" alt="Janmenjaya Biswal — Frontend Developer"/> -->
+<!-- HERO BANNER — click to open the portfolio -->
+<a href="https://www.janmenjaya.in" target="_blank" title="Visit my portfolio">
+  <img src="./header.svg" width="900" alt="Janmenjaya Biswal — Frontend Developer · www.janmenjaya.in" />
+</a>
+
+<br/>
+
+<a href="https://www.janmenjaya.in" target="_blank">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-www.janmenjaya.in-22d3ee?style=for-the-badge&labelColor=0a1a30" alt="Portfolio: www.janmenjaya.in" />
+</a>
 
 <br/>
 
 <!-- ANIMATED TYPEWRITER -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=780&height=50&lines=🚀+Building+EdTech+for+50%2C000%2B+Learners;⚛️+React+%7C+Next.js+%7C+TypeScript+Specialist;🎯+4+Live+Production+Platforms+Shipped;🏆+Excellence+Award+Winner+%40+IFAS+Educate;📱+React+Native+%7C+Mobile+Developer;✨+Open+to+Exciting+Opportunities)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=900&color=00B4D8&center=true&vCenter=true&width=780&height=50&lines=🚀+Building+EdTech+for+50%2C000%2B+Learners;⚛️+React+%7C+Next.js+%7C+TypeScript+Specialist;🎯+4+Live+Production+Platforms+Shipped;🏆+Excellence+Award+Winner+%40+IFAS+EduTech;📱+React+Native+%7C+Mobile+Developer;✨+Open+to+Exciting+Opportunities)](https://git.io/typing-svg)
 
 <br/>
 
@@ -28,7 +35,7 @@
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:janmenjayabiswal@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://suryathink.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.janmenjaya.in)
 
 </div>
 
@@ -56,7 +63,7 @@ const janmenjaya = {
 
   name     : "Janmenjaya Biswal",
   role     : "Frontend Developer",
-  company  : "IFAS Educate Pvt. Ltd.",  // current
+  company  : "IFAS EduTech Pvt. Ltd.",  // current
   employer : "e2eHiring",               // via
   location : "📍 Pune, Maharashtra 🇮🇳",
   phone    : "+91 7377617717",
@@ -79,7 +86,7 @@ const janmenjaya = {
   },
 
   achievements: [
-    "🏆 Excellence Award  @ IFAS Educate",
+    "🏆 Excellence Award  @ IFAS EduTech",
     "⚡ Page load ↓ ~25% via build optimisation",
     "📦 Dev speed ↑ ~30% with component libs",
     "🔗 20+ REST APIs integrated end-to-end",
@@ -259,7 +266,7 @@ const janmenjaya = {
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/🏆_Excellence-Award-FFD700?style=for-the-badge&labelColor=0d1117"/><br/><br/>
 <b>Excellence Award</b><br/>
-<sub>⭐ IFAS Educate Pvt. Ltd.</sub>
+<sub>⭐ IFAS EduTech Pvt. Ltd.</sub>
 </td>
 </tr>
 </table>
@@ -276,7 +283,7 @@ const janmenjaya = {
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-Hire_Me!-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:janmenjayabiswal@gmail.com)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work_↗-00b4d8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://suryathink.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Work_↗-00b4d8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117)](https://www.janmenjaya.in)
 
 <br/>
 
