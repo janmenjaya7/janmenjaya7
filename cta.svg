@@ -1,0 +1,71 @@
+<svg width="900" height="250" viewBox="0 0 900 250" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Let's build something great">
+  <title>Let's build something great</title>
+  <desc>Open to full-time frontend roles, freelance and contract projects, and product collaborations. www.janmenjaya.in · janmenjayabiswal@gmail.com</desc>
+  <defs>
+    <linearGradient id="ctbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050c1a"/><stop offset="100%" stop-color="#0a1a33"/>
+    </linearGradient>
+    <linearGradient id="ctcard" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1c33"/><stop offset="100%" stop-color="#081325"/>
+    </linearGradient>
+    <linearGradient id="ctstroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.75"/>
+      <stop offset="50%" stop-color="#1e3a5f" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0.75"/>
+    </linearGradient>
+    <linearGradient id="ctgrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/><stop offset="55%" stop-color="#93c5fd"/><stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <radialGradient id="ctglowA" cx="15%" cy="0%" r="60%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.16"/><stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="ctglowB" cx="90%" cy="100%" r="55%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.12"/><stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="ctdots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.9" fill="#1e3a5f" opacity="0.55"/>
+    </pattern>
+    <filter id="ctshadow" x="-10%" y="-10%" width="120%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity="0.45"/>
+    </filter>
+    <linearGradient id="ctborder" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22d3ee"/><stop offset="50%" stop-color="#3b82f6"/><stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <radialGradient id="ctorb1"><stop offset="0%" stop-color="#22d3ee" stop-opacity="0.35"/><stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/></radialGradient>
+    <radialGradient id="ctorb2"><stop offset="0%" stop-color="#8b5cf6" stop-opacity="0.3"/><stop offset="100%" stop-color="#8b5cf6" stop-opacity="0"/></radialGradient>
+    <linearGradient id="ctbtn" x1="0" y1="0" x2="1" y2="0"><stop offset="0%" stop-color="#2563eb"/><stop offset="100%" stop-color="#06b6d4"/></linearGradient>
+    <clipPath id="ctclip"><rect width="900" height="250" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#ctclip)">
+    <rect width="900" height="250" fill="url(#ctbg)"/>
+    <rect width="900" height="250" fill="url(#ctdots)"/>
+    <circle cx="120" cy="40" r="220" fill="url(#ctorb1)"><animate attributeName="cx" values="120;220;120" dur="12s" repeatCount="indefinite"/></circle>
+    <circle cx="800" cy="230" r="220" fill="url(#ctorb2)"><animate attributeName="cx" values="800;700;800" dur="14s" repeatCount="indefinite"/></circle>
+  </g>
+  <rect x="1" y="1" width="898" height="248" rx="17" fill="none" stroke="url(#ctborder)" stroke-width="1.6"/>
+
+  <g font-family="'Segoe UI',system-ui,-apple-system,sans-serif"><animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
+    <rect x="48" y="46" width="22" height="2" rx="1" fill="#22d3ee"/>
+    <text x="78" y="51" font-size="11.5" font-weight="800" fill="#22d3ee" letter-spacing="2.6">LET'S WORK TOGETHER</text>
+    <text x="48" y="98" font-size="34" font-weight="800" fill="url(#ctgrad)" letter-spacing="-0.8">Let's build something great.</text>
+    <text x="48" y="130" font-size="14.5" fill="#94a3b8">Have an idea, a product or a team that needs a</text>
+    <text x="48" y="152" font-size="14.5" fill="#94a3b8"><tspan fill="#e2e8f0" font-weight="600">React / Next.js</tspan> developer? I'd love to hear about it.</text>
+
+    <rect x="48" y="176" width="232" height="42" rx="21" fill="url(#ctbtn)"/>
+    <g transform="translate(65.5 188.5) scale(0.7083333333333334)" fill="none" stroke="#ffffff" stroke-width="2.54" stroke-linecap="round" stroke-linejoin="round" color="#ffffff"><circle cx="12" cy="12" r="9.5"/><path d="M2.5 12h19M12 2.5c2.6 2.7 3.9 5.9 3.9 9.5s-1.3 6.8-3.9 9.5c-2.6-2.7-3.9-5.9-3.9-9.5s1.3-6.8 3.9-9.5z"/></g>
+    <text x="92" y="202.5" font-size="15" font-weight="700" fill="#ffffff">www.janmenjaya.in</text>
+    <g transform="translate(252.5 189.5) scale(0.625)" fill="none" stroke="#ffffff" stroke-width="3.52" stroke-linecap="round" stroke-linejoin="round" color="#ffffff"><path d="M7 17L17 7M9 7h8v8"/></g>
+    <g transform="translate(301.5 188.5) scale(0.7083333333333334)" fill="none" stroke="#64748b" stroke-width="2.40" stroke-linecap="round" stroke-linejoin="round" color="#64748b"><rect x="3" y="5" width="18" height="14" rx="2.5"/><path d="M3.5 6.5L12 13l8.5-6.5"/></g>
+    <text x="328" y="202" font-size="13" fill="#94a3b8">janmenjayabiswal@gmail.com</text>
+  </g>
+
+  <g font-family="'Segoe UI',system-ui,-apple-system,sans-serif"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.27;1" dur="1.1s" fill="freeze"/>
+    <rect x="590" y="40" width="270" height="170" rx="14" fill="#07111f" fill-opacity="0.7" stroke="#1e3a5f"/>
+    <circle cx="612" cy="66" r="4" fill="#22c55e"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
+    <text x="624" y="70.5" font-size="12.5" font-weight="700" fill="#86efac">Available now</text>
+    <line x1="610" y1="86" x2="840" y2="86" stroke="#1e3a5f"/>
+    <circle cx="620" cy="112" r="10" fill="#22d3ee" fill-opacity="0.12"/><g transform="translate(614 106) scale(0.5)" fill="none" stroke="#22d3ee" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round" color="#22d3ee"><path d="M5 12.5l4.5 4.5L19 7.5"/></g><text x="640" y="116.5" font-size="13.2" fill="#e2e8f0">Full-time frontend roles</text>
+    <circle cx="620" cy="146" r="10" fill="#22d3ee" fill-opacity="0.12"/><g transform="translate(614 140) scale(0.5)" fill="none" stroke="#22d3ee" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round" color="#22d3ee"><path d="M5 12.5l4.5 4.5L19 7.5"/></g><text x="640" y="150.5" font-size="13.2" fill="#e2e8f0">Freelance &amp; contract projects</text>
+    <circle cx="620" cy="180" r="10" fill="#22d3ee" fill-opacity="0.12"/><g transform="translate(614 174) scale(0.5)" fill="none" stroke="#22d3ee" stroke-width="4.80" stroke-linecap="round" stroke-linejoin="round" color="#22d3ee"><path d="M5 12.5l4.5 4.5L19 7.5"/></g><text x="640" y="184.5" font-size="13.2" fill="#e2e8f0">Product &amp; startup collaborations</text>
+  </g>
+</svg>

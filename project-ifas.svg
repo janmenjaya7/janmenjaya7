@@ -1,0 +1,70 @@
+<svg width="440" height="236" viewBox="0 0 440 236" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="IFAS Online — EdTech learning portal">
+  <title>IFAS Online — EdTech learning portal</title>
+  <desc>Course management, HD video streaming, quiz engine, progress tracking and payments at national scale. Built with Next.js, React, TypeScript, REST API. ifasonline.com</desc>
+  <defs>
+    <linearGradient id="prbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050c1a"/><stop offset="100%" stop-color="#0a1a33"/>
+    </linearGradient>
+    <linearGradient id="prcard" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1c33"/><stop offset="100%" stop-color="#081325"/>
+    </linearGradient>
+    <linearGradient id="prstroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.75"/>
+      <stop offset="50%" stop-color="#1e3a5f" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0.75"/>
+    </linearGradient>
+    <linearGradient id="prgrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/><stop offset="55%" stop-color="#93c5fd"/><stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <radialGradient id="prglowA" cx="15%" cy="0%" r="60%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.16"/><stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="prglowB" cx="90%" cy="100%" r="55%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.12"/><stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="prdots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.9" fill="#1e3a5f" opacity="0.55"/>
+    </pattern>
+    <filter id="prshadow" x="-10%" y="-10%" width="120%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity="0.45"/>
+    </filter>
+    <linearGradient id="praccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#22d3ee"/><stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+    <radialGradient id="prspot" cx="92%" cy="0%" r="70%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.22"/><stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="prclip"><rect width="440" height="236" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#prclip)">
+    <rect width="440" height="236" fill="url(#prbg)"/>
+    <rect width="440" height="236" fill="url(#prdots)"/>
+    <rect width="440" height="236" fill="url(#prspot)"/>
+    <rect width="440" height="4" fill="url(#praccent)"/>
+  </g>
+  <rect x="0.6" y="0.6" width="438.8" height="234.8" rx="17.5" fill="none" stroke="#22d3ee" stroke-opacity="0.35"/>
+
+  <g font-family="'Segoe UI',system-ui,-apple-system,sans-serif"><animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
+    <rect x="24" y="26" width="48" height="48" rx="13" fill="#22d3ee" fill-opacity="0.13" stroke="#22d3ee" stroke-opacity="0.45"/>
+    <g transform="translate(36 38) scale(1)" fill="none" stroke="#22d3ee" stroke-width="1.80" stroke-linecap="round" stroke-linejoin="round" color="#22d3ee"><path d="M2 9l10-5 10 5-10 5z"/><path d="M6 11v5c0 1.6 2.7 3 6 3s6-1.4 6-3v-5M22 9v6"/></g>
+    <text x="86" y="47" font-size="18.5" font-weight="800" fill="#f8fafc" letter-spacing="-0.3">IFAS Online</text>
+    <text x="86" y="67" font-size="12.3" fill="#94a3b8">EdTech learning portal</text>
+
+    <rect x="352" y="28" width="64" height="24" rx="12" fill="#0f2a1c" stroke="#22c55e" stroke-opacity="0.55"/>
+    <circle cx="366" cy="40" r="3.6" fill="#22c55e"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
+    <text x="376" y="44.5" font-size="12" font-weight="700" fill="#86efac">Live</text>
+
+    <text x="24" y="106" font-size="13.4" fill="#cbd5e1">Course management, HD video streaming, quiz engine,</text>
+    <text x="24" y="126" font-size="13.4" fill="#cbd5e1">progress tracking and payments at national scale.</text>
+
+    <g font-size="11.4" font-weight="600"><rect x="24" y="146" width="68" height="22" rx="11" fill="#111827" stroke="#334155"/><text x="58" y="161" text-anchor="middle" fill="#f8fafc">Next.js</text><rect x="98" y="146" width="55" height="22" rx="11" fill="#0c2535" stroke="#155e75"/><text x="125.5" y="161" text-anchor="middle" fill="#67e8f9">React</text><rect x="159" y="146" width="88" height="22" rx="11" fill="#0f1f3d" stroke="#1d4ed8"/><text x="203" y="161" text-anchor="middle" fill="#93c5fd">TypeScript</text><rect x="253" y="146" width="75" height="22" rx="11" fill="#2a1a12" stroke="#9a3412"/><text x="290.5" y="161" text-anchor="middle" fill="#fdba74">REST API</text></g>
+
+    <line x1="24" y1="186" x2="416" y2="186" stroke="#1e3a5f"/>
+    <g transform="translate(25.5 201.5) scale(0.625)" fill="none" stroke="#22d3ee" stroke-width="2.72" stroke-linecap="round" stroke-linejoin="round" color="#22d3ee"><circle cx="12" cy="12" r="9.5"/><path d="M2.5 12h19M12 2.5c2.6 2.7 3.9 5.9 3.9 9.5s-1.3 6.8-3.9 9.5c-2.6-2.7-3.9-5.9-3.9-9.5s1.3-6.8 3.9-9.5z"/></g>
+    <text x="48" y="213.5" font-size="12.8" font-weight="600" fill="#e2e8f0">ifasonline.com</text>
+    <text x="394" y="213.5" text-anchor="end" font-size="12.5" font-weight="700" fill="#22d3ee">50,000+ learners</text>
+    <g><g transform="translate(401 202) scale(0.5833333333333334)" fill="none" stroke="#22d3ee" stroke-width="3.43" stroke-linecap="round" stroke-linejoin="round" color="#22d3ee"><path d="M7 17L17 7M9 7h8v8"/></g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;2 -2;0 0" dur="1.8s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>

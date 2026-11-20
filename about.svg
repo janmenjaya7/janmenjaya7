@@ -1,0 +1,102 @@
+<svg width="900" height="360" viewBox="0 0 900 360" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="About me — Janmenjaya Biswal">
+  <title>About me — Janmenjaya Biswal</title>
+  <desc>Frontend Developer at IFAS EduTech. 3+ years building the IFAS EduTech platform family used by 50,000+ learners. Focus: clean typed React, performance, mobile-first UI, mentoring.</desc>
+  <defs>
+    <linearGradient id="abbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050c1a"/><stop offset="100%" stop-color="#0a1a33"/>
+    </linearGradient>
+    <linearGradient id="abcard" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1c33"/><stop offset="100%" stop-color="#081325"/>
+    </linearGradient>
+    <linearGradient id="abstroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.75"/>
+      <stop offset="50%" stop-color="#1e3a5f" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0.75"/>
+    </linearGradient>
+    <linearGradient id="abgrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/><stop offset="55%" stop-color="#93c5fd"/><stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <radialGradient id="abglowA" cx="15%" cy="0%" r="60%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.16"/><stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="abglowB" cx="90%" cy="100%" r="55%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.12"/><stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="abdots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.9" fill="#1e3a5f" opacity="0.55"/>
+    </pattern>
+    <filter id="abshadow" x="-10%" y="-10%" width="120%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+  <rect width="900" height="360" rx="18" fill="url(#abbg)"/>
+  <rect width="900" height="360" rx="18" fill="url(#abdots)"/>
+  <rect width="900" height="360" rx="18" fill="url(#abglowA)"/>
+  <rect width="900" height="360" rx="18" fill="url(#abglowB)"/>
+  <!-- code card -->
+  <g><animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
+    <rect x="24" y="24" width="428" height="312" rx="14" fill="#07111f" fill-opacity="0.94" stroke="url(#abstroke)" stroke-width="1.2" filter="url(#abshadow)"/>
+    <path d="M24 38a14 14 0 0 1 14-14h400a14 14 0 0 1 14 14v22H24z" fill="#0c1a2e"/>
+    <line x1="24" y1="60" x2="452" y2="60" stroke="#1e3a5f"/>
+    <circle cx="44" cy="42" r="5" fill="#ff5f57"/><circle cx="61" cy="42" r="5" fill="#febc2e"/><circle cx="78" cy="42" r="5" fill="#28c840"/>
+    <text x="238" y="46" text-anchor="middle" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="11.5" fill="#64748b">about.ts</text>
+    <text x="436" y="46" text-anchor="end" font-family="'Segoe UI',system-ui,-apple-system,sans-serif" font-size="10.5" font-weight="700" fill="#3178c6">TS</text>
+    <g font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12.6">
+      <text x="56" y="96" text-anchor="end" fill="#334155">1</text><text x="70" y="96" xml:space="preserve"><tspan fill="#c084fc">const </tspan><tspan fill="#e2e8f0">janmenjaya </tspan><tspan fill="#94a3b8">= {</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.27;1" dur="0.55s" fill="freeze"/></text>
+      <text x="56" y="117.5" text-anchor="end" fill="#334155">2</text><text x="70" y="117.5" xml:space="preserve"><tspan fill="#60a5fa">  role     </tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#34d399">&quot;Frontend Developer&quot;</tspan><tspan fill="#94a3b8">,</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.40;1" dur="0.67s" fill="freeze"/></text>
+      <text x="56" y="139" text-anchor="end" fill="#334155">3</text><text x="70" y="139" xml:space="preserve"><tspan fill="#60a5fa">  company  </tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#34d399">&quot;IFAS EduTech&quot;</tspan><tspan fill="#94a3b8">,</tspan><tspan fill="#475569">  // current</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.49;1" dur="0.79s" fill="freeze"/></text>
+      <text x="56" y="160.5" text-anchor="end" fill="#334155">4</text><text x="70" y="160.5" xml:space="preserve"><tspan fill="#60a5fa">  based    </tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#34d399">&quot;Pune, India&quot;</tspan><tspan fill="#94a3b8">,</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.56;1" dur="0.91s" fill="freeze"/></text>
+      <text x="56" y="182" text-anchor="end" fill="#334155">5</text><text x="70" y="182" xml:space="preserve"><tspan fill="#60a5fa">  focus    </tspan><tspan fill="#94a3b8">: [</tspan><tspan fill="#fbbf24">&quot;Next.js&quot;</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#fbbf24">&quot;Perf&quot;</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#fbbf24">&quot;UX&quot;</tspan><tspan fill="#94a3b8">],</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.61;1" dur="1.03s" fill="freeze"/></text>
+      <text x="56" y="203.5" text-anchor="end" fill="#334155">6</text><text x="70" y="203.5" xml:space="preserve"><tspan fill="#60a5fa">  impact   </tspan><tspan fill="#94a3b8">: {</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.65;1" dur="1.15s" fill="freeze"/></text>
+      <text x="56" y="225" text-anchor="end" fill="#334155">7</text><text x="70" y="225" xml:space="preserve"><tspan fill="#60a5fa">    learners</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#34d399">&quot;50K+&quot;</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#60a5fa">apis</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#34d399">&quot;100+&quot;</tspan><tspan fill="#94a3b8">,</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.69;1" dur="1.27s" fill="freeze"/></text>
+      <text x="56" y="246.5" text-anchor="end" fill="#334155">8</text><text x="70" y="246.5" xml:space="preserve"><tspan fill="#60a5fa">    products</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#fbbf24">4</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#60a5fa">award</tspan><tspan fill="#94a3b8">: </tspan><tspan fill="#34d399">&quot;Excellence&quot;</tspan><tspan fill="#94a3b8">,</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.71;1" dur="1.3900000000000001s" fill="freeze"/></text>
+      <text x="56" y="268" text-anchor="end" fill="#334155">9</text><text x="70" y="268" xml:space="preserve"><tspan fill="#94a3b8">  },</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.74;1" dur="1.5099999999999998s" fill="freeze"/></text>
+      <text x="56" y="289.5" text-anchor="end" fill="#334155">10</text><text x="70" y="289.5" xml:space="preserve"><tspan fill="#60a5fa">  offline  </tspan><tspan fill="#94a3b8">: [</tspan><tspan fill="#34d399">&quot;📸&quot;</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#34d399">&quot;✈️&quot;</tspan><tspan fill="#94a3b8">, </tspan><tspan fill="#34d399">&quot;📚&quot;</tspan><tspan fill="#94a3b8">],</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.75;1" dur="1.63s" fill="freeze"/></text>
+      <text x="56" y="311" text-anchor="end" fill="#334155">11</text><text x="70" y="311" xml:space="preserve"><tspan fill="#94a3b8">};</tspan><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.77;1" dur="1.75s" fill="freeze"/></text>
+      <rect x="92" y="303" width="7" height="14" fill="#22d3ee"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></rect>
+    </g>
+  </g>
+
+  <!-- intro -->
+  <g font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.11;1" dur="0.9s" fill="freeze"/>
+      <rect x="478" y="44" width="22" height="2" rx="1" fill="#22d3ee"/>
+      <text x="508" y="49" font-size="11.5" font-weight="800" fill="#22d3ee" letter-spacing="2.6">ABOUT ME</text>
+      <text x="478" y="86" font-size="23" font-weight="800" fill="url(#abgrad)" letter-spacing="-0.4">I build fast, polished web</text>
+      <text x="478" y="115" font-size="23" font-weight="800" fill="url(#abgrad)" letter-spacing="-0.4">products people love to use.</text>
+    </g>
+    <g font-size="13.2" fill="#94a3b8"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.27;1" dur="1.1s" fill="freeze"/>
+      <text x="478" y="146"><tspan fill="#e2e8f0" font-weight="600">3+ years</tspan> shipping the IFAS EduTech platform family —</text>
+      <text x="478" y="166">learning portal, course marketplace and admin CRM —</text>
+      <text x="478" y="186">used by <tspan fill="#e2e8f0" font-weight="600">50,000+ learners</tspan> across India.</text>
+    </g>
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.50;1" dur="1s" fill="freeze"/>
+      <rect x="478" y="214" width="196" height="56" rx="12" fill="url(#abcard)" stroke="#1e3a5f"/>
+      <circle cx="506" cy="242" r="16" fill="#22d3ee" fill-opacity="0.12" stroke="#22d3ee" stroke-opacity="0.35"/>
+      <g transform="translate(497.5 233.5) scale(0.7083333333333334)" fill="none" stroke="#22d3ee" stroke-width="2.54" stroke-linecap="round" stroke-linejoin="round" color="#22d3ee"><path d="M8 7l-5 5 5 5M16 7l5 5-5 5M13.5 4l-3 16"/></g>
+      <text x="532" y="238" font-size="13" font-weight="700" fill="#f1f5f9">Clean, typed React</text>
+      <text x="532" y="255" font-size="11.2" fill="#94a3b8">Reusable components</text>
+    </g>
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.55;1" dur="1.12s" fill="freeze"/>
+      <rect x="682" y="214" width="196" height="56" rx="12" fill="url(#abcard)" stroke="#1e3a5f"/>
+      <circle cx="710" cy="242" r="16" fill="#fbbf24" fill-opacity="0.12" stroke="#fbbf24" stroke-opacity="0.35"/>
+      <g transform="translate(701.5 233.5) scale(0.7083333333333334)" fill="none" stroke="#fbbf24" stroke-width="2.54" stroke-linecap="round" stroke-linejoin="round" color="#fbbf24"><path d="M13 2L4 14h7l-1 8 9-12h-7l1-8z"/></g>
+      <text x="736" y="238" font-size="13" font-weight="700" fill="#f1f5f9">Performance first</text>
+      <text x="736" y="255" font-size="11.2" fill="#94a3b8">Fast loads, smooth UI</text>
+    </g>
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.60;1" dur="1.24s" fill="freeze"/>
+      <rect x="478" y="278" width="196" height="56" rx="12" fill="url(#abcard)" stroke="#1e3a5f"/>
+      <circle cx="506" cy="306" r="16" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.35"/>
+      <g transform="translate(497.5 297.5) scale(0.7083333333333334)" fill="none" stroke="#a78bfa" stroke-width="2.54" stroke-linecap="round" stroke-linejoin="round" color="#a78bfa"><rect x="6" y="2" width="12" height="20" rx="2.5"/><path d="M10.5 18.5h3"/></g>
+      <text x="532" y="302" font-size="13" font-weight="700" fill="#f1f5f9">Mobile-first UI</text>
+      <text x="532" y="319" font-size="11.2" fill="#94a3b8">Every screen size</text>
+    </g>
+    <g><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.63;1" dur="1.3599999999999999s" fill="freeze"/>
+      <rect x="682" y="278" width="196" height="56" rx="12" fill="url(#abcard)" stroke="#1e3a5f"/>
+      <circle cx="710" cy="306" r="16" fill="#34d399" fill-opacity="0.12" stroke="#34d399" stroke-opacity="0.35"/>
+      <g transform="translate(701.5 297.5) scale(0.7083333333333334)" fill="none" stroke="#34d399" stroke-width="2.54" stroke-linecap="round" stroke-linejoin="round" color="#34d399"><circle cx="9" cy="8" r="3.5"/><path d="M2.5 20c.6-3.6 3.3-5.5 6.5-5.5s5.9 1.9 6.5 5.5"/><circle cx="17" cy="9" r="2.6"/><path d="M17.5 14.6c2.3.4 3.8 2.1 4.1 4.9"/></g>
+      <text x="736" y="302" font-size="13" font-weight="700" fill="#f1f5f9">Team player</text>
+      <text x="736" y="319" font-size="11.2" fill="#94a3b8">Mentoring &amp; reviews</text>
+    </g>
+  </g>
+</svg>

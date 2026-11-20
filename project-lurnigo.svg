@@ -1,0 +1,70 @@
+<svg width="440" height="236" viewBox="0 0 440 236" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Lurnigo — Online course marketplace">
+  <title>Lurnigo — Online course marketplace</title>
+  <desc>Instructor dashboards, student enrollment, content delivery and progress analytics in one place. Built with React, TypeScript, Bootstrap, REST API. lurnigo.com</desc>
+  <defs>
+    <linearGradient id="prbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050c1a"/><stop offset="100%" stop-color="#0a1a33"/>
+    </linearGradient>
+    <linearGradient id="prcard" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1c33"/><stop offset="100%" stop-color="#081325"/>
+    </linearGradient>
+    <linearGradient id="prstroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.75"/>
+      <stop offset="50%" stop-color="#1e3a5f" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0.75"/>
+    </linearGradient>
+    <linearGradient id="prgrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/><stop offset="55%" stop-color="#93c5fd"/><stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <radialGradient id="prglowA" cx="15%" cy="0%" r="60%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.16"/><stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="prglowB" cx="90%" cy="100%" r="55%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.12"/><stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="prdots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.9" fill="#1e3a5f" opacity="0.55"/>
+    </pattern>
+    <filter id="prshadow" x="-10%" y="-10%" width="120%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity="0.45"/>
+    </filter>
+    <linearGradient id="praccent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#a78bfa"/><stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+    <radialGradient id="prspot" cx="92%" cy="0%" r="70%">
+      <stop offset="0%" stop-color="#a78bfa" stop-opacity="0.22"/><stop offset="100%" stop-color="#a78bfa" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="prclip"><rect width="440" height="236" rx="18"/></clipPath>
+  </defs>
+  <g clip-path="url(#prclip)">
+    <rect width="440" height="236" fill="url(#prbg)"/>
+    <rect width="440" height="236" fill="url(#prdots)"/>
+    <rect width="440" height="236" fill="url(#prspot)"/>
+    <rect width="440" height="4" fill="url(#praccent)"/>
+  </g>
+  <rect x="0.6" y="0.6" width="438.8" height="234.8" rx="17.5" fill="none" stroke="#a78bfa" stroke-opacity="0.35"/>
+
+  <g font-family="'Segoe UI',system-ui,-apple-system,sans-serif"><animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
+    <rect x="24" y="26" width="48" height="48" rx="13" fill="#a78bfa" fill-opacity="0.13" stroke="#a78bfa" stroke-opacity="0.45"/>
+    <g transform="translate(36 38) scale(1)" fill="none" stroke="#a78bfa" stroke-width="1.80" stroke-linecap="round" stroke-linejoin="round" color="#a78bfa"><rect x="2.5" y="4" width="19" height="14" rx="2.5"/><path d="M10 8.2v5.6l4.6-2.8z"/><path d="M8 21h8"/></g>
+    <text x="86" y="47" font-size="18.5" font-weight="800" fill="#f8fafc" letter-spacing="-0.3">Lurnigo</text>
+    <text x="86" y="67" font-size="12.3" fill="#94a3b8">Online course marketplace</text>
+
+    <rect x="352" y="28" width="64" height="24" rx="12" fill="#0f2a1c" stroke="#22c55e" stroke-opacity="0.55"/>
+    <circle cx="366" cy="40" r="3.6" fill="#22c55e"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
+    <text x="376" y="44.5" font-size="12" font-weight="700" fill="#86efac">Live</text>
+
+    <text x="24" y="106" font-size="13.4" fill="#cbd5e1">Instructor dashboards, student enrollment, content</text>
+    <text x="24" y="126" font-size="13.4" fill="#cbd5e1">delivery and progress analytics in one place.</text>
+
+    <g font-size="11.4" font-weight="600"><rect x="24" y="146" width="55" height="22" rx="11" fill="#0c2535" stroke="#155e75"/><text x="51.5" y="161" text-anchor="middle" fill="#67e8f9">React</text><rect x="85" y="146" width="88" height="22" rx="11" fill="#0f1f3d" stroke="#1d4ed8"/><text x="129" y="161" text-anchor="middle" fill="#93c5fd">TypeScript</text><rect x="179" y="146" width="81" height="22" rx="11" fill="#1c1538" stroke="#5b21b6"/><text x="219.5" y="161" text-anchor="middle" fill="#c4b5fd">Bootstrap</text><rect x="266" y="146" width="75" height="22" rx="11" fill="#2a1a12" stroke="#9a3412"/><text x="303.5" y="161" text-anchor="middle" fill="#fdba74">REST API</text></g>
+
+    <line x1="24" y1="186" x2="416" y2="186" stroke="#1e3a5f"/>
+    <g transform="translate(25.5 201.5) scale(0.625)" fill="none" stroke="#a78bfa" stroke-width="2.72" stroke-linecap="round" stroke-linejoin="round" color="#a78bfa"><circle cx="12" cy="12" r="9.5"/><path d="M2.5 12h19M12 2.5c2.6 2.7 3.9 5.9 3.9 9.5s-1.3 6.8-3.9 9.5c-2.6-2.7-3.9-5.9-3.9-9.5s1.3-6.8 3.9-9.5z"/></g>
+    <text x="48" y="213.5" font-size="12.8" font-weight="600" fill="#e2e8f0">lurnigo.com</text>
+    <text x="394" y="213.5" text-anchor="end" font-size="12.5" font-weight="700" fill="#a78bfa">Marketplace</text>
+    <g><g transform="translate(401 202) scale(0.5833333333333334)" fill="none" stroke="#a78bfa" stroke-width="3.43" stroke-linecap="round" stroke-linejoin="round" color="#a78bfa"><path d="M7 17L17 7M9 7h8v8"/></g>
+      <animateTransform attributeName="transform" type="translate" values="0 0;2 -2;0 0" dur="1.8s" repeatCount="indefinite"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,110 @@
+<svg width="900" height="264" viewBox="0 0 900 264" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Certifications &amp; recognition">
+  <title>Certifications &amp; recognition</title>
+  <desc>Excellence Award — IFAS EduTech Pvt. Ltd., Outstanding delivery. Associate Cloud Engineer — Google Cloud, Jan 2023. Master of Computer Applications — Trident Academy, 2019 – 2022. Android App Development — Mobile Development, May 2020</desc>
+  <defs>
+    <linearGradient id="cebg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050c1a"/><stop offset="100%" stop-color="#0a1a33"/>
+    </linearGradient>
+    <linearGradient id="cecard" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1c33"/><stop offset="100%" stop-color="#081325"/>
+    </linearGradient>
+    <linearGradient id="cestroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.75"/>
+      <stop offset="50%" stop-color="#1e3a5f" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0.75"/>
+    </linearGradient>
+    <linearGradient id="cegrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/><stop offset="55%" stop-color="#93c5fd"/><stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <radialGradient id="ceglowA" cx="15%" cy="0%" r="60%">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.16"/><stop offset="100%" stop-color="#3b82f6" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="ceglowB" cx="90%" cy="100%" r="55%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.12"/><stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="cedots" width="22" height="22" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="0.9" fill="#1e3a5f" opacity="0.55"/>
+    </pattern>
+    <filter id="ceshadow" x="-10%" y="-10%" width="120%" height="140%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+  <rect width="900" height="264" rx="18" fill="url(#cebg)"/>
+  <rect width="900" height="264" rx="18" fill="url(#cedots)"/>
+  <rect width="900" height="264" rx="18" fill="url(#ceglowA)"/>
+  <rect width="900" height="264" rx="18" fill="url(#ceglowB)"/>
+  <g font-family="'Segoe UI',system-ui,-apple-system,sans-serif"><animate attributeName="opacity" values="0;1" dur="0.8s" fill="freeze"/>
+      <rect x="24" y="24" width="204" height="216" rx="14" fill="url(#cecard)" stroke="#fbbf24" stroke-opacity="0.35"/>
+      <circle cx="126" cy="86" r="46" fill="#fbbf24" opacity="0.10"/>
+      <circle cx="126" cy="86" r="32" fill="#0b1629" stroke="#fbbf24" stroke-opacity="0.55" stroke-width="1.4"/>
+      <circle cx="126" cy="86" r="38" fill="none" stroke="#fbbf24" stroke-opacity="0.35" stroke-dasharray="3 5">
+        <animateTransform attributeName="transform" type="rotate" from="0 126 86" to="360 126 86" dur="14s" repeatCount="indefinite"/>
+      </circle>
+      <g transform="translate(111 71) scale(1.25)" fill="none" stroke="#fbbf24" stroke-width="1.36" stroke-linecap="round" stroke-linejoin="round" color="#fbbf24"><path d="M8 3h8v6a4 4 0 0 1-8 0z"/><path d="M8 5H4.5a3.5 3.5 0 0 0 3.6 4.4M16 5h3.5a3.5 3.5 0 0 1-3.6 4.4M12 13v4M8.5 21h7M9.5 17h5v4h-5z"/></g>
+      <text x="126" y="152" text-anchor="middle" font-size="14.5" font-weight="800" fill="#f8fafc">Excellence Award</text>
+      <text x="126" y="173" text-anchor="middle" font-size="12" fill="#94a3b8">IFAS EduTech Pvt. Ltd.</text>
+      <rect x="49" y="204" width="154" height="22" rx="11" fill="#fbbf24" fill-opacity="0.12" stroke="#fbbf24" stroke-opacity="0.45"/>
+      <text x="126" y="219" text-anchor="middle" font-size="11.3" font-weight="700" fill="#fbbf24">Outstanding delivery</text>
+    </g>
+  <g font-family="'Segoe UI',system-ui,-apple-system,sans-serif"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.13;1" dur="0.92s" fill="freeze"/>
+      <rect x="240" y="24" width="204" height="216" rx="14" fill="url(#cecard)" stroke="#60a5fa" stroke-opacity="0.35"/>
+      <circle cx="342" cy="86" r="46" fill="#60a5fa" opacity="0.10"/>
+      <circle cx="342" cy="86" r="32" fill="#0b1629" stroke="#60a5fa" stroke-opacity="0.55" stroke-width="1.4"/>
+      <circle cx="342" cy="86" r="38" fill="none" stroke="#60a5fa" stroke-opacity="0.35" stroke-dasharray="3 5">
+        <animateTransform attributeName="transform" type="rotate" from="0 342 86" to="360 342 86" dur="16s" repeatCount="indefinite"/>
+      </circle>
+      <svg x="323" y="67" width="38" height="38" viewBox="0 0 256 256">
+    
+        <g transform="translate(0, 0)">
+          <svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" fill="none" viewBox="0 0 256 256"><rect width="256" height="256" fill="#242938" rx="60"/><path fill="#EA4335" d="M161.009 92.3895L178.394 75.0043L179.553 67.684C147.873 38.877 97.5124 42.1434 68.9538 74.4997C61.021 83.4864 55.1358 94.6903 51.9976 106.26L58.2241 105.382L92.9937 99.6489L95.678 96.9036C111.144 79.9176 137.295 77.6325 155.153 92.0848L161.009 92.3895Z"/><path fill="#4285F4" d="M203.16 105.749C199.164 91.033 190.96 77.8041 179.553 67.6846L155.153 92.0846C165.456 100.503 171.326 113.186 171.074 126.489V130.82C183.067 130.82 192.79 140.542 192.79 152.535C192.79 164.529 183.067 174.008 171.074 174.008H127.581L123.311 178.644V204.691L127.581 208.778H171.074C202.269 209.021 227.755 184.173 227.998 152.978C228.145 134.069 218.823 116.342 203.16 105.749Z"/><path fill="#34A853" d="M84.1488 208.778H127.581V174.008H84.1488C81.0543 174.007 78.0574 173.342 75.2433 172.056L69.0816 173.947L51.5746 191.332L50.0496 197.249C59.8675 204.662 71.8464 208.831 84.1488 208.778Z"/><path fill="#FBBC05" d="M84.1487 95.9886C52.9526 96.1746 27.8151 121.615 28.001 152.811C28.1049 170.231 36.2409 186.629 50.0495 197.249L75.2432 172.056C64.3128 167.118 59.4557 154.254 64.394 143.325C69.3315 132.395 82.1956 127.538 93.1245 132.475C97.9409 134.651 101.798 138.509 103.974 143.325L129.167 118.132C118.448 104.118 101.792 95.9254 84.1487 95.9886Z"/></svg>
+        </g>
+        
+  </svg>
+      <text x="342" y="152" text-anchor="middle" font-size="14.5" font-weight="800" fill="#f8fafc">Associate Cloud</text><text x="342" y="171" text-anchor="middle" font-size="14.5" font-weight="800" fill="#f8fafc">Engineer</text>
+      <text x="342" y="192" text-anchor="middle" font-size="12" fill="#94a3b8">Google Cloud</text>
+      <rect x="303.4" y="204" width="77.2" height="22" rx="11" fill="#60a5fa" fill-opacity="0.12" stroke="#60a5fa" stroke-opacity="0.45"/>
+      <text x="342" y="219" text-anchor="middle" font-size="11.3" font-weight="700" fill="#60a5fa">Jan 2023</text>
+    </g>
+  <g font-family="'Segoe UI',system-ui,-apple-system,sans-serif"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.23;1" dur="1.04s" fill="freeze"/>
+      <rect x="456" y="24" width="204" height="216" rx="14" fill="url(#cecard)" stroke="#a78bfa" stroke-opacity="0.35"/>
+      <circle cx="558" cy="86" r="46" fill="#a78bfa" opacity="0.10"/>
+      <circle cx="558" cy="86" r="32" fill="#0b1629" stroke="#a78bfa" stroke-opacity="0.55" stroke-width="1.4"/>
+      <circle cx="558" cy="86" r="38" fill="none" stroke="#a78bfa" stroke-opacity="0.35" stroke-dasharray="3 5">
+        <animateTransform attributeName="transform" type="rotate" from="0 558 86" to="360 558 86" dur="18s" repeatCount="indefinite"/>
+      </circle>
+      <g transform="translate(543 71) scale(1.25)" fill="none" stroke="#a78bfa" stroke-width="1.36" stroke-linecap="round" stroke-linejoin="round" color="#a78bfa"><path d="M2 9l10-5 10 5-10 5z"/><path d="M6 11v5c0 1.6 2.7 3 6 3s6-1.4 6-3v-5M22 9v6"/></g>
+      <text x="558" y="152" text-anchor="middle" font-size="14.5" font-weight="800" fill="#f8fafc">Master of Computer</text><text x="558" y="171" text-anchor="middle" font-size="14.5" font-weight="800" fill="#f8fafc">Applications</text>
+      <text x="558" y="192" text-anchor="middle" font-size="12" fill="#94a3b8">Trident Academy</text>
+      <rect x="509.8" y="204" width="96.4" height="22" rx="11" fill="#a78bfa" fill-opacity="0.12" stroke="#a78bfa" stroke-opacity="0.45"/>
+      <text x="558" y="219" text-anchor="middle" font-size="11.3" font-weight="700" fill="#a78bfa">2019 – 2022</text>
+    </g>
+  <g font-family="'Segoe UI',system-ui,-apple-system,sans-serif"><animate attributeName="opacity" values="0;0;1" keyTimes="0;0.31;1" dur="1.1600000000000001s" fill="freeze"/>
+      <rect x="672" y="24" width="204" height="216" rx="14" fill="url(#cecard)" stroke="#34d399" stroke-opacity="0.35"/>
+      <circle cx="774" cy="86" r="46" fill="#34d399" opacity="0.10"/>
+      <circle cx="774" cy="86" r="32" fill="#0b1629" stroke="#34d399" stroke-opacity="0.55" stroke-width="1.4"/>
+      <circle cx="774" cy="86" r="38" fill="none" stroke="#34d399" stroke-opacity="0.35" stroke-dasharray="3 5">
+        <animateTransform attributeName="transform" type="rotate" from="0 774 86" to="360 774 86" dur="20s" repeatCount="indefinite"/>
+      </circle>
+      <svg x="755" y="67" width="38" height="38" viewBox="0 0 256 256">
+    
+        <g transform="translate(0, 0)">
+          <svg width="256" height="256" viewBox="0 0 256 256" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="256" height="256" rx="60" fill="#242938"/>
+<path d="M107.028 48.8181H60.7888C51.5798 48.8181 44.0108 56.6801 44.0108 66.4151C43.6818 75.8111 50.9178 83.6701 59.9698 84.0111H107.522L107.028 48.8181Z" fill="#073042"/>
+<path d="M211.835 205.303H60.7887C51.4147 205.303 44.0107 197.445 44.0107 187.707V66.2461C44.0107 75.9821 51.5797 83.8411 60.7887 84.0111H187.321C187.321 84.0111 212 81.7931 212 101.097V205.303H211.835Z" fill="#4285F4"/>
+<path d="M141.413 143.12C148.159 137.825 149.475 127.917 144.379 121.082C141.579 117.324 137.301 114.933 132.692 114.761H133.186C134.011 114.591 134.997 114.591 135.823 114.761V105.024C135.823 103.828 135.327 102.803 134.34 102.292C132.858 101.437 131.049 101.95 130.227 103.487C129.897 104 129.733 104.512 129.897 105.195V115.102C121.671 116.469 115.912 124.499 117.225 133.213V133.383C117.886 137.483 120.027 141.242 123.316 143.633L95.5088 205.474H113.609L126.441 177.116C127.925 173.698 131.872 172.162 135.327 173.87C136.646 174.554 137.795 175.749 138.453 177.116L151.783 205.474H170.209L141.413 143.12ZM132.036 140.387C126.77 140.387 122.657 135.945 122.657 130.48C122.657 125.011 126.935 120.741 132.199 120.911C134.667 120.911 136.81 121.937 138.617 123.647C142.401 127.403 142.401 133.554 138.781 137.483C137.137 139.192 134.667 140.387 132.036 140.387Z" fill="#3870B2"/>
+<path d="M96.9917 57.363H161.818V69.662H96.9917V57.363Z" fill="white"/>
+<path d="M127.1 120.741C132.199 120.741 136.48 125.183 136.316 130.649C136.316 135.945 132.036 140.387 126.77 140.216C121.671 140.216 117.556 135.775 117.556 130.48C117.556 127.917 118.542 125.524 120.357 123.647C122.164 121.766 124.63 120.741 127.1 120.741ZM130.72 115.102V104.853C130.72 103.657 130.227 102.633 129.24 102.119C127.76 101.265 125.949 101.778 125.123 103.316C124.793 103.828 124.63 104.341 124.793 105.024V114.933C116.567 116.298 110.808 124.33 112.129 133.042V133.213C112.788 137.31 114.924 141.07 118.215 143.46L83.1688 221.532C81.8538 224.268 82.0178 227.682 83.8278 230.245C86.4568 234.173 91.5618 235.198 95.3418 232.466C96.6628 231.611 97.6488 230.245 98.3058 228.878L121.671 176.944C123.151 173.528 127.1 171.99 130.556 173.698C131.872 174.382 133.022 175.579 133.681 176.944L157.539 228.366C159.516 232.636 164.449 234.344 168.566 232.293C172.676 230.245 174.323 225.119 172.347 220.848L136.316 143.12C142.896 137.652 144.049 127.575 138.781 120.741C136.81 118.007 134.011 116.128 130.72 115.102Z" fill="#073042"/>
+<path d="M152.276 68.296C149.805 68.296 147.831 66.415 147.831 63.854C147.831 62.658 148.323 61.292 149.146 60.437C150.957 58.73 153.591 58.73 155.401 60.437C156.222 61.292 156.716 62.487 156.716 63.683C156.552 66.246 154.742 68.125 152.276 68.296ZM103.572 68.125C101.1 68.125 99.1288 66.075 99.1288 63.683C99.1288 62.487 99.6238 61.292 100.443 60.437C101.925 58.559 104.726 58.216 106.533 59.756H106.698C108.506 61.463 108.67 64.366 107.028 66.246L106.533 66.927C105.712 67.782 104.562 68.296 103.406 68.296L103.572 68.125ZM153.591 40.62L162.311 24.904C162.804 24.05 162.475 23.025 161.818 22.342C160.995 22 160.174 22.171 159.681 22.855L150.629 39.083C136.151 32.421 119.698 32.421 105.383 39.083L96.4978 23.025C96.1688 22.513 95.5088 22 94.8488 22C94.1918 22 93.5328 22.342 93.2018 23.025C92.8738 23.538 92.8738 24.391 93.2018 24.904L102.09 40.62C86.6208 49.33 76.5848 65.734 75.1078 83.841H180.737C179.424 65.564 169.221 49.33 153.755 40.62" fill="#3DDC84"/>
+<path d="M197.37 117.839H190.459C190.128 118.007 189.8 118.349 189.8 118.861V232.466C189.8 232.977 190.128 233.319 190.625 233.319H197.863C206.254 233.319 213 226.143 213 217.603V101.95C213 110.662 206.254 117.667 197.863 117.667H197.37V117.839Z" fill="#073042"/>
+</svg>
+
+        </g>
+        
+  </svg>
+      <text x="774" y="152" text-anchor="middle" font-size="14.5" font-weight="800" fill="#f8fafc">Android App</text><text x="774" y="171" text-anchor="middle" font-size="14.5" font-weight="800" fill="#f8fafc">Development</text>
+      <text x="774" y="192" text-anchor="middle" font-size="12" fill="#94a3b8">Mobile Development</text>
+      <rect x="735.4" y="204" width="77.2" height="22" rx="11" fill="#34d399" fill-opacity="0.12" stroke="#34d399" stroke-opacity="0.45"/>
+      <text x="774" y="219" text-anchor="middle" font-size="11.3" font-weight="700" fill="#34d399">May 2020</text>
+    </g>
+</svg>
