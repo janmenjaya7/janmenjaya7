@@ -33,7 +33,7 @@
 ```ts
 const janmenjaya = {
   role     : "Frontend Developer",
-  company  : "IFAS EduTech Pvt. Ltd.",   // via e2eHiring
+  company  : "IFAS EduTech Pvt. Ltd.",   // current
   location : "Pune, India",
 
   focus: [
@@ -45,7 +45,7 @@ const janmenjaya = {
   impact: {
     learners : "50,000+",
     products : 4,          // live in production
-    apis     : "20+",      // integrated end-to-end
+    apis     : "100+",     // integrated end-to-end
     loadTime : "-25%",     // build optimisation
   },
 
@@ -80,24 +80,32 @@ For the last 3+ years I've been shipping the IFAS EduTech platform family — th
 
 ## 💼 Experience
 
-<table width="100%">
-<tr>
-<td width="100%">
+<div align="center">
 
-### Junior Developer Engineer — Frontend
-**e2eHiring** · client **IFAS EduTech Pvt. Ltd.** &nbsp;|&nbsp; `Aug 2023 – Present` &nbsp;|&nbsp; Pune
+<img src="./experience.svg" width="100%" alt="Frontend Developer at IFAS EduTech Pvt. Ltd. (current) — 4 live platforms, 50,000+ learners, 100+ REST APIs, Next.js. Previously Frontend Developer at e2eHiring (from Aug 2023)." />
 
-- 🚀 Delivered **4 live production platforms** serving **50,000+ active learners**
-- 🧩 Architected reusable **React + TypeScript** component libraries — **~30%** less UI development time
-- 🔗 Integrated **20+ REST APIs** for auth, courses, video streaming and payments
-- ⚡ Tuned **Webpack / Babel** builds — smaller bundles and **~25%** faster page loads
-- 🔐 Built an admin **CRM** with role-based access, real-time reports and progress tracking
+<p><b>Products I've built — live in production</b></p>
+<p><a href="https://ifasonline.com"><img src="https://img.shields.io/badge/IFAS_Online-ifasonline.com-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="ifasonline.com" /></a> <a href="https://crm.ifasonline.com"><img src="https://img.shields.io/badge/IFAS_CRM-crm.ifasonline.com-3b82f6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="crm.ifasonline.com" /></a> <a href="https://lurnigo.com"><img src="https://img.shields.io/badge/Lurnigo-lurnigo.com-8b5cf6?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="lurnigo.com" /></a> <a href="https://anjanasamaj.in"><img src="https://img.shields.io/badge/Anjana_Samaj-anjanasamaj.in-22c55e?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117" alt="anjanasamaj.in" /></a></p>
 
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" /> <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white" /> <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" /> <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" />
+</div>
 
-</td>
-</tr>
-</table>
+<details>
+<summary><b>Read as text</b></summary>
+<br/>
+
+**Frontend Developer · IFAS EduTech Pvt. Ltd.** — *Present* · Pune, India
+- Own the frontend of **4 live production platforms** used by **50,000+ learners** across India
+- Build and scale **Next.js** applications with SSR / SSG — fast, SEO-friendly and production-ready
+- Integrated **100+ REST APIs** end-to-end — authentication, courses, video streaming and payments
+- Designed reusable **React + TypeScript** component libraries — ~30% faster UI delivery
+- Optimised Webpack / Babel builds — leaner bundles and ~25% faster page loads
+- Shipped an **admin CRM** with role-based access, real-time reports and student progress tracking
+
+**Frontend Developer · e2eHiring** — *from Aug 2023* · Pune, India
+- Started my professional journey shipping production React.js interfaces for EdTech products
+- Delivered mobile-first responsive UI, worked in Agile sprints and mentored 2 junior developers
+
+</details>
 
 <img src="./divider.svg" width="100%" alt="" />
 
@@ -129,8 +137,8 @@ Real-time reporting, student progress tracking and admin management modules.
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 Lurnigo
-<sub>**Online course marketplace** · production client project</sub>
+### 🛒 [Lurnigo](https://lurnigo.com)
+<sub>**Online course marketplace** · 🟢 Live</sub>
 
 Instructor dashboards, enrollment, content delivery and progress analytics.
 
@@ -139,8 +147,8 @@ Instructor dashboards, enrollment, content delivery and progress analytics.
 </td>
 <td width="50%" valign="top">
 
-### 🌐 Anjana Samaj
-<sub>**Community portal** · production client project</sub>
+### 🌐 [Anjana Samaj](https://anjanasamaj.in)
+<sub>**Community portal** · 🟢 Live</sub>
 
 Member portal, events management and announcement board.
 

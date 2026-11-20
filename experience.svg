@@ -1,0 +1,159 @@
+<svg width="900" height="530" viewBox="0 0 900 530" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="xpTitle xpDesc">
+  <title id="xpTitle">Experience — Janmenjaya Biswal</title>
+  <desc id="xpDesc">Frontend Developer at IFAS EduTech Pvt. Ltd. (current) and Frontend Developer at e2eHiring (previous, from Aug 2023).</desc>
+
+  <defs>
+    <linearGradient id="xpBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#050c1a"/>
+      <stop offset="100%" stop-color="#0a1a33"/>
+    </linearGradient>
+    <linearGradient id="xpCard" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0c1a30"/>
+      <stop offset="100%" stop-color="#081325"/>
+    </linearGradient>
+    <linearGradient id="xpStroke" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#3b82f6" stop-opacity="0.8"/>
+      <stop offset="50%" stop-color="#1e3a5f" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0.8"/>
+    </linearGradient>
+    <linearGradient id="xpStroke2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#334155"/>
+      <stop offset="100%" stop-color="#1e3a5f"/>
+    </linearGradient>
+    <linearGradient id="xpLine" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#22c55e"/>
+      <stop offset="45%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#3b82f6" stop-opacity="0.3"/>
+    </linearGradient>
+    <linearGradient id="xpNum" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#22d3ee"/>
+    </linearGradient>
+    <linearGradient id="xpTile" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#11284a"/>
+      <stop offset="100%" stop-color="#0b1a30"/>
+    </linearGradient>
+    <radialGradient id="xpGlow" cx="80%" cy="10%" r="60%">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="xpSpark">
+      <stop offset="0%" stop-color="#a5f3fc"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="xpShadow" x="-5%" y="-10%" width="110%" height="130%">
+      <feDropShadow dx="0" dy="8" stdDeviation="10" flood-color="#000" flood-opacity="0.45"/>
+    </filter>
+  </defs>
+
+  <rect width="900" height="530" rx="18" fill="url(#xpBg)"/>
+  <rect width="900" height="530" rx="18" fill="url(#xpGlow)"/>
+
+  <!-- ───────── TIMELINE ───────── -->
+  <rect x="43" y="44" width="2" height="356" rx="1" fill="url(#xpLine)"/>
+  <circle cx="44" cy="44" r="9" fill="url(#xpSpark)">
+    <animate attributeName="cy" values="44;400;44" dur="6s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- current node -->
+  <circle cx="44" cy="44" r="12" fill="#22c55e" opacity="0.3">
+    <animate attributeName="r" values="7;14;7" dur="2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.5;0;0.5" dur="2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="44" cy="44" r="7" fill="#050c1a" stroke="#22c55e" stroke-width="2.5"/>
+  <circle cx="44" cy="44" r="3" fill="#22c55e"/>
+
+  <!-- previous node -->
+  <circle cx="44" cy="404" r="7" fill="#050c1a" stroke="#3b82f6" stroke-width="2.5"/>
+  <circle cx="44" cy="404" r="3" fill="#3b82f6"/>
+
+  <!-- ───────── CURRENT ROLE ───────── -->
+  <g font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+    <animate attributeName="opacity" values="0;1" dur="0.7s" fill="freeze"/>
+    <rect x="72" y="16" width="812" height="350" rx="16" fill="url(#xpCard)" stroke="url(#xpStroke)" stroke-width="1.3" filter="url(#xpShadow)"/>
+
+    <text x="96" y="54" font-size="21" font-weight="800" fill="#f8fafc" letter-spacing="-0.3">Frontend Developer</text>
+    <!-- company -->
+    <g transform="translate(103 76)" fill="none" stroke="#22d3ee" stroke-width="1.5" stroke-linejoin="round">
+      <rect x="-6" y="-6" width="12" height="12" rx="1.5"/>
+      <path d="M-3-2.5h2m2 0h2M-3 0.5h2m2 0h2M-1.2 6v-2.5h2.4V6"/>
+    </g>
+    <text x="116" y="81" font-size="14.5" font-weight="700" fill="#22d3ee">IFAS EduTech Pvt. Ltd.<tspan font-weight="400" fill="#64748b">  ·  Pune, India  ·  Full-time</tspan></text>
+
+    <!-- status pill -->
+    <rect x="726" y="34" width="138" height="28" rx="14" fill="#0f2a1c" stroke="#22c55e" stroke-opacity="0.6"/>
+    <circle cx="744" cy="48" r="4" fill="#22c55e">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/>
+    </circle>
+    <text x="756" y="52.5" font-size="12.5" font-weight="700" fill="#86efac">Present · Current</text>
+
+    <line x1="96" y1="98" x2="860" y2="98" stroke="#1e3a5f" stroke-width="1"/>
+
+    <!-- achievements -->
+    <g font-size="13.8" fill="#cbd5e1">
+      <g fill="#22d3ee">
+        <path d="M100 118l5 4-5 4z"/><path d="M100 142l5 4-5 4z"/><path d="M100 166l5 4-5 4z"/>
+        <path d="M100 190l5 4-5 4z"/><path d="M100 214l5 4-5 4z"/><path d="M100 238l5 4-5 4z"/>
+      </g>
+      <text x="114" y="127">Own the frontend of <tspan fill="#fff" font-weight="700">4 live production platforms</tspan> used by <tspan fill="#fff" font-weight="700">50,000+ learners</tspan> across India</text>
+      <text x="114" y="151">Build and scale <tspan fill="#fff" font-weight="700">Next.js</tspan> applications with SSR / SSG — fast, SEO-friendly and production-ready</text>
+      <text x="114" y="175">Integrated <tspan fill="#fff" font-weight="700">100+ REST APIs</tspan> end-to-end — authentication, courses, video streaming and payments</text>
+      <text x="114" y="199">Designed reusable <tspan fill="#fff" font-weight="700">React + TypeScript</tspan> component libraries — <tspan fill="#22d3ee" font-weight="700">~30% faster</tspan> UI delivery</text>
+      <text x="114" y="223">Optimised Webpack / Babel builds — leaner bundles and <tspan fill="#22d3ee" font-weight="700">~25% faster</tspan> page loads</text>
+      <text x="114" y="247">Shipped an <tspan fill="#fff" font-weight="700">admin CRM</tspan> with role-based access, real-time reports and student progress tracking</text>
+    </g>
+
+    <!-- impact tiles -->
+    <g text-anchor="middle">
+      <rect x="96"  y="266" width="182" height="54" rx="10" fill="url(#xpTile)" stroke="#1e3a5f"/>
+      <text x="187" y="291" font-size="21" font-weight="800" fill="url(#xpNum)">50K+</text>
+      <text x="187" y="310" font-size="11.5" fill="#94a3b8">active learners</text>
+
+      <rect x="290" y="266" width="182" height="54" rx="10" fill="url(#xpTile)" stroke="#1e3a5f"/>
+      <text x="381" y="291" font-size="21" font-weight="800" fill="url(#xpNum)">100+</text>
+      <text x="381" y="310" font-size="11.5" fill="#94a3b8">REST APIs integrated</text>
+
+      <rect x="484" y="266" width="182" height="54" rx="10" fill="url(#xpTile)" stroke="#1e3a5f"/>
+      <text x="575" y="291" font-size="21" font-weight="800" fill="url(#xpNum)">4</text>
+      <text x="575" y="310" font-size="11.5" fill="#94a3b8">live products shipped</text>
+
+      <rect x="678" y="266" width="182" height="54" rx="10" fill="url(#xpTile)" stroke="#1e3a5f"/>
+      <text x="769" y="291" font-size="21" font-weight="800" fill="url(#xpNum)">~25%</text>
+      <text x="769" y="310" font-size="11.5" fill="#94a3b8">faster page loads</text>
+    </g>
+
+    <!-- stack chips -->
+    <g font-size="11.5" font-weight="600" text-anchor="middle">
+      <rect x="96"  y="332" width="64" height="22" rx="11" fill="#111827" stroke="#334155"/><text x="128" y="347" fill="#f8fafc">Next.js</text>
+      <rect x="166" y="332" width="60" height="22" rx="11" fill="#0c2535" stroke="#155e75"/><text x="196" y="347" fill="#67e8f9">React</text>
+      <rect x="232" y="332" width="84" height="22" rx="11" fill="#0f1f3d" stroke="#1d4ed8"/><text x="274" y="347" fill="#93c5fd">TypeScript</text>
+      <rect x="322" y="332" width="90" height="22" rx="11" fill="#0f1f3d" stroke="#1e40af"/><text x="367" y="347" fill="#bfdbfe">Material UI</text>
+      <rect x="418" y="332" width="80" height="22" rx="11" fill="#1c1538" stroke="#5b21b6"/><text x="458" y="347" fill="#c4b5fd">Bootstrap</text>
+      <rect x="504" y="332" width="78" height="22" rx="11" fill="#2a1a12" stroke="#9a3412"/><text x="543" y="347" fill="#fdba74">REST APIs</text>
+      <rect x="588" y="332" width="76" height="22" rx="11" fill="#0c2535" stroke="#0e7490"/><text x="626" y="347" fill="#a5f3fc">Webpack</text>
+      <rect x="670" y="332" width="54" height="22" rx="11" fill="#111827" stroke="#334155"/><text x="697" y="347" fill="#e2e8f0">Git</text>
+    </g>
+  </g>
+
+  <!-- ───────── PREVIOUS ROLE ───────── -->
+  <g font-family="'Segoe UI',system-ui,-apple-system,sans-serif">
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.4;1" dur="1.2s" fill="freeze"/>
+    <rect x="72" y="384" width="812" height="128" rx="16" fill="url(#xpCard)" stroke="url(#xpStroke2)" stroke-width="1.2"/>
+
+    <text x="96" y="420" font-size="19" font-weight="800" fill="#e2e8f0" letter-spacing="-0.3">Frontend Developer</text>
+    <g transform="translate(103 442)" fill="none" stroke="#60a5fa" stroke-width="1.5" stroke-linejoin="round">
+      <rect x="-6" y="-4" width="12" height="9.5" rx="1.5"/>
+      <path d="M-2.5-4v-2h5v2"/>
+    </g>
+    <text x="116" y="447" font-size="14" font-weight="700" fill="#60a5fa">e2eHiring<tspan font-weight="400" fill="#64748b">  ·  Pune, India</tspan></text>
+
+    <rect x="726" y="402" width="138" height="28" rx="14" fill="#0f1d33" stroke="#3b82f6" stroke-opacity="0.5"/>
+    <text x="795" y="420.5" text-anchor="middle" font-size="12.5" font-weight="700" fill="#93c5fd">Aug 2023 · Previous</text>
+
+    <g font-size="13.5" fill="#94a3b8">
+      <g fill="#3b82f6"><path d="M100 466l5 4-5 4z"/><path d="M100 490l5 4-5 4z"/></g>
+      <text x="114" y="475">Started my professional journey shipping production <tspan fill="#e2e8f0" font-weight="600">React.js</tspan> interfaces for EdTech products</text>
+      <text x="114" y="499">Delivered mobile-first responsive UI, worked in Agile sprints and <tspan fill="#e2e8f0" font-weight="600">mentored 2 junior developers</tspan></text>
+    </g>
+  </g>
+</svg>
